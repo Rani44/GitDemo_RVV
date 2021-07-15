@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="1" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="0.472">
+    <testcase classname="Search and place order for vegetables" name="Search for items and validate results" time="0.111">
+        <failure message="The scenario has pending or undefined step(s)" type="java.lang.Exception"><![CDATA[Given User is on Green cart Landing page....................................undefined
+When User searched for "Cucumber" vegetable.................................skipped
+Then "Cucumber" resutls are displayed.......................................skipped
+]]></failure>
+    </testcase>
+</testsuite>
